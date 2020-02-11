@@ -22,6 +22,5 @@ This team looks after the LiveStyled's Android platform. We develop new features
 | Lokmane Krizou | 🇩🇿 |
 | Pierre-antoine Fagniez | 🇫🇷 |
 | Julia Sotola | 🇵🇱 |
-| Pøöyan Majdabadi | 🇮🇷 |
 
 📸 Instagram: https://www.instagram.com/livestyledtalent/
