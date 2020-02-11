@@ -20,9 +20,7 @@ git clone https://{yourusername}@bitbucket.org/livestyled-dev/livestyled.android
 ## Installing dependencies
 
 ### Requirements
-- #
-
-### Instructions
+- Android SDK 28 , 29 installend in android studio
 
 ## Switching between branches/apps
 Fetch all branches using:
@@ -40,18 +38,14 @@ git checkout .
 
 ## Running the project
 
-### Requirements
-- #
-
 ### Instructions
-1. #
+1. Press the "Run app button", it will run the code in your device (if plugged and with debub mode on) or open the wizard to create an emulated device (only if you still don't have configured one before)
 
 ## Configuring environments
 ### To change the environment that the app points to (staging or release):
-1. #
+1. Open the buildVariant dialog box and select the desired environment (Debug, Alpha, Beta, Staging)
 
 ### To manually change the endpoints that the app points to:
-1. #
-
-### To change the enabled features:
-1. #
+1. Go to data/[enviroment]/res/values/string.xml
+2. Change the endpoint url
+3. Run the app
