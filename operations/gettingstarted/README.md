@@ -14,7 +14,7 @@ git clone git@bitbucket.org:livestyled-dev/android.livestyled.git
 ```
 or HTTPS:
 ```
-git clone https://{yourusername}@bitbucket.org/livestyled-dev/android.livestyled..git
+git clone https://{yourusername}@bitbucket.org/livestyled-dev/android.livestyled.git
 ```
 
 ## Installing dependencies
