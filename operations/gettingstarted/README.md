@@ -3,18 +3,18 @@
 ## Repository setup
 
 ### Requirements
-- A Bitbucket account added to the [frontier repository](https://bitbucket.org/livestyled-dev/livestyled.android/src/master/)
+- A Bitbucket account added to the [frontier repository](https://bitbucket.org/livestyled-dev/android.livestyled/src/master/)
 - The [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
 
 ### Instructions
 The above repository can be cloned by running the following terminal command within the project's directory via SSH:
 SSH
 ```
-git clone git@bitbucket.org:livestyled-dev/livestyled.android.git
+git clone git@bitbucket.org:livestyled-dev/android.livestyled.git
 ```
 or HTTPS:
 ```
-git clone https://{yourusername}@bitbucket.org/livestyled-dev/livestyled.android.git
+git clone https://{yourusername}@bitbucket.org/livestyled-dev/android.livestyled..git
 ```
 
 ## Installing dependencies
