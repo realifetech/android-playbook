@@ -39,7 +39,7 @@ git checkout .
 ## Running the project
 
 ### Instructions
-1. Press the "Run app button", it will run the code in your device (if plugged and with debub mode on) or open the wizard to create an emulated device (only if you still don't have configured one before)
+1. Press the "Run app button", it will run the code in your device (if plugged and with debug mode on) or open the wizard to create an emulated device (only if you still don't have configured one before)
 
 ## Configuring environments
 ### To change the environment that the app points to (staging or release):
