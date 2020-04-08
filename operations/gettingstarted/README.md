@@ -20,7 +20,7 @@ git clone https://{yourusername}@bitbucket.org/livestyled-dev/android.livestyled
 ## Installing dependencies
 
 ### Requirements
-- Android SDK 28 , 29 installend in android studio
+- Android SDK 28 installed in Android Studio
 
 ## Switching between branches/apps
 Fetch all branches using:
@@ -46,6 +46,6 @@ git checkout .
 1. Open the buildVariant dialog box and select the desired environment (Debug, Alpha, Beta, Staging)
 
 ### To manually change the endpoints that the app points to:
-1. Go to data/[enviroment]/res/values/string.xml
+1. Go to data/[environment]/res/values/string.xml
 2. Change the endpoint url
 3. Run the app
