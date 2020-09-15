@@ -20,7 +20,7 @@ git clone https://{yourusername}@bitbucket.org/livestyled-dev/android.livestyled
 ## Installing dependencies
 
 ### Requirements
-- Android SDK 28 installed in Android Studio
+- Android SDK 29 installed in Android Studio
 
 ## Switching between branches/apps
 Fetch all branches using:
