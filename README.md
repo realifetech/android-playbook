@@ -3,7 +3,7 @@
 </p>
 
 # Android Playbook
-In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our Android team and how it operates.
+In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the Android playbook, which aims to provide information about our Android team and how it operates.
 
 ## Introduction
 This team looks after the LiveStyled's Android platform. We develop new features, test them, fix any issues, generate new client apps, and deploy them to the App Store.
