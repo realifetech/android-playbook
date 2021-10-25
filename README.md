@@ -20,7 +20,6 @@ This team looks after the Realifetech's Android platform. We develop new feature
 | ------------- | ------------- |
 | Fabio Insolia  | 󠁮󠁧🇮🇹 |
 | Lokmane Krizou | 🇩🇿 |
-| Pierre-antoine Fagniez | 🇫🇷 |
-| Julia Sotola | 🇵🇱 |
+
 
 📸 Instagram: https://www.instagram.com/realifetechtalent/
